@@ -19,14 +19,7 @@ namespace PesoIdeal
 
         private void BtCalcular_Click(object sender, EventArgs e)
         {
-            try
-            {
-
-            }
-            catch(Exception e)
-            {
-
-            }
+            
             
         }
     }
