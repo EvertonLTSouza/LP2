@@ -30,8 +30,8 @@
         {
             this.BtCalcular = new System.Windows.Forms.Button();
             this.GbGenero = new System.Windows.Forms.GroupBox();
-            this.RbtnMasculino = new System.Windows.Forms.RadioButton();
             this.RbtnFeminino = new System.Windows.Forms.RadioButton();
+            this.RbtnMasculino = new System.Windows.Forms.RadioButton();
             this.LblPesoAtual = new System.Windows.Forms.Label();
             this.LblAltura = new System.Windows.Forms.Label();
             this.TxtPesoAtual = new System.Windows.Forms.TextBox();
@@ -60,9 +60,20 @@
             this.GbGenero.TabStop = false;
             this.GbGenero.Text = "Gênero";
             // 
+            // RbtnFeminino
+            // 
+            this.RbtnFeminino.AutoSize = true;
+            this.RbtnFeminino.Location = new System.Drawing.Point(19, 74);
+            this.RbtnFeminino.Name = "RbtnFeminino";
+            this.RbtnFeminino.Size = new System.Drawing.Size(67, 17);
+            this.RbtnFeminino.TabIndex = 0;
+            this.RbtnFeminino.Text = "Feminino";
+            this.RbtnFeminino.UseVisualStyleBackColor = true;
+            // 
             // RbtnMasculino
             // 
             this.RbtnMasculino.AutoSize = true;
+            this.RbtnMasculino.Checked = true;
             this.RbtnMasculino.Location = new System.Drawing.Point(19, 34);
             this.RbtnMasculino.Name = "RbtnMasculino";
             this.RbtnMasculino.Size = new System.Drawing.Size(73, 17);
@@ -71,25 +82,14 @@
             this.RbtnMasculino.Text = "Masculino";
             this.RbtnMasculino.UseVisualStyleBackColor = true;
             // 
-            // RbtnFeminino
-            // 
-            this.RbtnFeminino.AutoSize = true;
-            this.RbtnFeminino.Location = new System.Drawing.Point(19, 74);
-            this.RbtnFeminino.Name = "RbtnFeminino";
-            this.RbtnFeminino.Size = new System.Drawing.Size(67, 17);
-            this.RbtnFeminino.TabIndex = 0;
-            this.RbtnFeminino.TabStop = true;
-            this.RbtnFeminino.Text = "Feminino";
-            this.RbtnFeminino.UseVisualStyleBackColor = true;
-            // 
             // LblPesoAtual
             // 
             this.LblPesoAtual.AutoSize = true;
             this.LblPesoAtual.Location = new System.Drawing.Point(9, 12);
             this.LblPesoAtual.Name = "LblPesoAtual";
-            this.LblPesoAtual.Size = new System.Drawing.Size(57, 13);
+            this.LblPesoAtual.Size = new System.Drawing.Size(58, 13);
             this.LblPesoAtual.TabIndex = 2;
-            this.LblPesoAtual.Text = "Peso Ideal";
+            this.LblPesoAtual.Text = "Peso Atual";
             // 
             // LblAltura
             // 
