@@ -1,0 +1,9 @@
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\bin\Debug\triangulo.exe.config
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\bin\Debug\triangulo.exe
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\bin\Debug\triangulo.pdb
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.Form1.resources
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.cache
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.exe
+C:\Users\Everton Souza\Documents\LP2\Atividade3\Triângulo\triangulo\triangulo\obj\Debug\triangulo.pdb
