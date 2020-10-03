@@ -1,0 +1,10 @@
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.Form1.resources
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.Properties.Resources.resources
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.GenerateResource.cache
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+C:\Users\Everton Souza\Documents\LP2\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb

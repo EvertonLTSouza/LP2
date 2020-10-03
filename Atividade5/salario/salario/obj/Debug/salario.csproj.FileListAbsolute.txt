@@ -1,0 +1,9 @@
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\bin\Debug\salario.exe.config
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\bin\Debug\salario.exe
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\bin\Debug\salario.pdb
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.Form1.resources
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.Properties.Resources.resources
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.csproj.GenerateResource.cache
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.exe
+C:\Users\Everton Souza\Documents\LP2\Atividade4\salario\salario\obj\Debug\salario.pdb
