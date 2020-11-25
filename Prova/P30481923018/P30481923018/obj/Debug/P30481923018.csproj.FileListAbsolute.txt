@@ -1,0 +1,10 @@
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\bin\Debug\P30481923018.exe.config
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\bin\Debug\P30481923018.exe
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\bin\Debug\P30481923018.pdb
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.frmProva.resources
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.Properties.Resources.resources
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.csproj.GenerateResource.cache
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.csproj.CoreCompileInputs.cache
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.exe
+C:\Users\Everton Souza\Documents\LP2\Prova\P30481923018\P30481923018\obj\Debug\P30481923018.pdb
